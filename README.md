@@ -19,6 +19,7 @@ The three-axis robot consists of three rotational axes and an end effector at th
 The rotational axes are used to move the end effector to the specified positions, while the end effector is used to grasp objects, thus enabling picking and placing operations.
 
 ![Figure 1](./image/robot.png)
+
 Figure 1
 
 ## Project Files Decription
